@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+body{
+	background-color:#92a8d1;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+.container{
+	
+}
+
+.primer-imagen{
+	position:absolute;
+	height: 120px;
+	width: 120px;
+	top: 20%;
+	left: 45%;
+	border-radius: 50%;
+
+}
+
+
+.titulo{
+	position: absolute;
+	text-align: center;
+	top: 10%;
+	left:550px;
+	
+
+}
+
+.parrafo{
+	position: absolute;
+	top: 45%;
+	left:597px;
+	font-weight: bold;
+	font-size: 30PX;
+}
+
+.Parrafo2{
+	position: absolute;
+	top: 53%;
+	left:485px;
+	font-weight: bold;
+	font-size: 30PX;
+}
+
+
+.segunda-linea{
+
+	position: absolute;
+	width: 40%;
+	left: 55%;
+	top:30%;
+}
+
+hr{
+	position: absolute;
+	width: 41%;
+	left:3%;
+	top:30%;
+}
